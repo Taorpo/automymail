@@ -1,0 +1,7 @@
+# local tooling
+node_modules/
+# clasp config holds your script ID — never commit it
+.clasp.json
+# editor / OS noise
+.vscode/
+.DS_Store
